@@ -1,0 +1,14 @@
+{
+  "name": "rest-shopagain",
+  "version": "1.0.0",
+  "description": "a node restful Api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kanav Malik",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
